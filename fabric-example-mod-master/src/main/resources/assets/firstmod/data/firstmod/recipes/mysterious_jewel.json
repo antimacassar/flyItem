@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "D#D",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "firstmod.Mysterious Jewel"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond_block",
+    "count": 5
+  }
+}
